@@ -117,6 +117,6 @@ class GamePlay(sm.SM):
 
 			return 'P1_turn', P2
 ```
-
+## Link to Video: https://youtu.be/zDa3vtZ57WM
 
 [1]: https://cdn.shopify.com/s/files/1/0876/1176/files/i984_pimgpsh_fullsize_distr.png?v=1525140332
